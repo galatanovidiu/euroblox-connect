@@ -11,7 +11,7 @@ First of all you need a company account on EuroBlox. If you do not have an accou
 After your account has been created and activated, go to Account > Integration section https://euroblox.com/my-account/integration and create an API ke for your Woocommerce Shop:
 
 1. For website type select **WooCommerce on Wordpress**
-2. On Website URL field, add your website url like *https://mywebsite.com*
+2. On Website URL field, add your website url like *https:// ... .com*
 3. After saving the form an API Key will be generated for your website.
 
 ## Install the Plugin
